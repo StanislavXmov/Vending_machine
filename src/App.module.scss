@@ -1,0 +1,32 @@
+.app {
+  max-width: 1280px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.headerMain {
+  font-size: 32px;
+  color: #222222;
+}
+
+canvas { 
+  border: none;
+}
+
+.scene {
+  width: 540px;
+  height: 540px;
+  border: none;
+}
+
+.background {
+  width: 540px;
+  height: 540px;
+  background-image: url(../public/IMG.png), url(../public/0001.svg);
+  background-size: contain;
+}
