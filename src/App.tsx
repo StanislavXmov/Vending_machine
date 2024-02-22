@@ -10,7 +10,7 @@ function randomNumber(min: number, max: number) {
 const types = {
   1: {
     sprite: {
-      texture: "public/Vector.svg",
+      texture: "./Vector.svg",
       xScale: 0.6,
       yScale: 0.6,
     },
@@ -19,7 +19,7 @@ const types = {
   },
   2: {
     sprite: {
-      texture: "public/Vector-1.svg",
+      texture: "./Vector-1.svg",
       xScale: 0.6,
       yScale: 0.6,
     },
@@ -28,7 +28,7 @@ const types = {
   },
   3: {
     sprite: {
-      texture: "public/Vector-2.svg",
+      texture: "./Vector-2.svg",
       xScale: 0.6,
       yScale: 0.6,
     },
