@@ -8,4 +8,4 @@
 - REACT
 - MATTER JS
 
-<a href="https://vendingmachine.xmov.repl.co/" target="_blank">Check the Demo</a>
+<a href="https://xmov.fun/web/vending_machine/" target="_blank">Check the Demo</a>
